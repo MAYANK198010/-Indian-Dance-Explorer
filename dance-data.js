@@ -1,0 +1,243 @@
+window.DANCE_DATA = [
+  {
+    "state": "Arunachal Pradesh",
+    "overview": "Arunachal Pradesh preserves ceremonial and community dances that reflect tribal identity, seasonal celebration, and storytelling traditions of the eastern Himalayas.",
+    "dances": [
+      { "name": "Bardo Chham", "description": "A masked ritual dance performed during monastic festivals with dramatic spiritual symbolism.", "video": "https://www.youtube.com/embed?listType=search&list=Bardo%20Chham%20dance%20Arunachal%20Pradesh" },
+      { "name": "Ponung", "description": "A graceful group dance-song tradition of the Adi community led in a circular formation.", "video": "https://www.youtube.com/embed?listType=search&list=Ponung%20dance%20Arunachal%20Pradesh" },
+      { "name": "Popir", "description": "A women-led folk dance known for elegant hand movements and festive presentation.", "video": "https://www.youtube.com/embed?listType=search&list=Popir%20dance%20Arunachal%20Pradesh" },
+      { "name": "Aji Lamu", "description": "A theatrical dance-drama style presented with elaborate costume and expressive movement.", "video": "https://www.youtube.com/embed?listType=search&list=Aji%20Lamu%20dance%20Arunachal%20Pradesh" },
+      { "name": "Chalo", "description": "A harvest celebration dance performed in groups to mark joy, unity, and agrarian rhythm.", "video": "https://www.youtube.com/embed?listType=search&list=Chalo%20dance%20Arunachal%20Pradesh" },
+      { "name": "Lion & Peacock Dance", "description": "A symbolic festival dance that uses animal-inspired costume and movement to create visual storytelling.", "video": "https://www.youtube.com/embed?listType=search&list=Lion%20Peacock%20dance%20Arunachal%20Pradesh" }
+    ]
+  },
+  {
+    "state": "Assam",
+    "overview": "Assam's dance culture is energetic and rhythmic, often tied to harvest, devotion, and community celebration across the Brahmaputra valley.",
+    "dances": [
+      { "name": "Bihu", "description": "Assam's best-known harvest dance, full of lively steps, drum beats, and youthful celebration.", "video": "https://www.youtube.com/embed?listType=search&list=Bihu%20dance%20Assam" },
+      { "name": "Bagurumba", "description": "A vibrant Bodo folk dance inspired by the beauty of butterflies and nature.", "video": "https://www.youtube.com/embed?listType=search&list=Bagurumba%20dance%20Assam" },
+      { "name": "Bhortal Dance", "description": "A devotional folk form featuring synchronized cymbal playing and dynamic group choreography.", "video": "https://www.youtube.com/embed?listType=search&list=Bhortal%20dance%20Assam" },
+      { "name": "Deodhani", "description": "A dramatic ritual dance associated with spiritual invocation and expressive performance.", "video": "https://www.youtube.com/embed?listType=search&list=Deodhani%20dance%20Assam" },
+      { "name": "Jhumura", "description": "A tea-garden folk dance performed with steady rhythm and a strong collective spirit.", "video": "https://www.youtube.com/embed?listType=search&list=Jhumura%20dance%20Assam" }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "overview": "Uttar Pradesh offers folk dances shaped by mythology, village theatre, and festival traditions from the Gangetic plains.",
+    "dances": [
+      { "name": "Raslila", "description": "A devotional dance-drama that narrates episodes from the life of Krishna.", "video": "https://www.youtube.com/embed?listType=search&list=Raslila%20dance%20Uttar%20Pradesh" },
+      { "name": "Nautanki", "description": "A theatrical folk form blending music, dance, and storytelling in an entertaining village stage style.", "video": "https://www.youtube.com/embed?listType=search&list=Nautanki%20dance%20Uttar%20Pradesh" },
+      { "name": "Charkula", "description": "A festive Braj dance in which performers balance a decorated multi-tiered lamp arrangement.", "video": "https://www.youtube.com/embed?listType=search&list=Charkula%20dance%20Uttar%20Pradesh" },
+      { "name": "Mayur Dance", "description": "A peacock-inspired dance associated with beauty, devotion, and expressive imitation of nature.", "video": "https://www.youtube.com/embed?listType=search&list=Mayur%20dance%20Uttar%20Pradesh" },
+      { "name": "Karma", "description": "A traditional group dance performed with circular movement and strong rhythmic repetition.", "video": "https://www.youtube.com/embed?listType=search&list=Karma%20dance%20Uttar%20Pradesh" }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "overview": "The folk dances of Uttarakhand often mirror mountain life, warrior heritage, and seasonal celebration in the Himalayan region.",
+    "dances": [
+      { "name": "Chholiya", "description": "A sword dance with martial energy, often performed in weddings and ceremonial processions.", "video": "https://www.youtube.com/embed?listType=search&list=Chholiya%20dance%20Uttarakhand" },
+      { "name": "Langvir Nritya", "description": "A balancing dance noted for acrobatic control and powerful body strength.", "video": "https://www.youtube.com/embed?listType=search&list=Langvir%20Nritya%20Uttarakhand" },
+      { "name": "Barada Nati", "description": "A joyful folk performance with coordinated stepping and regional costume tradition.", "video": "https://www.youtube.com/embed?listType=search&list=Barada%20Nati%20dance%20Uttarakhand" },
+      { "name": "Pandav Nritya", "description": "A dramatic dance tradition inspired by episodes from the Mahabharata.", "video": "https://www.youtube.com/embed?listType=search&list=Pandav%20Nritya%20Uttarakhand" }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "overview": "Odisha's folk dances combine martial rhythm, devotional expression, and regional performance traditions from coastal and tribal communities.",
+    "dances": [
+      { "name": "Ghumura", "description": "A powerful folk dance marked by large drums and vigorous rhythmic movement.", "video": "https://www.youtube.com/embed?listType=search&list=Ghumura%20dance%20Odisha" },
+      { "name": "Chhau", "description": "A semi-classical masked dance tradition known for stylized movement and heroic themes.", "video": "https://www.youtube.com/embed?listType=search&list=Chhau%20dance%20Odisha" },
+      { "name": "Paika Dance", "description": "A martial folk dance inspired by the warrior traditions of Odisha.", "video": "https://www.youtube.com/embed?listType=search&list=Paika%20dance%20Odisha" },
+      { "name": "Goti Pua", "description": "A devotional dance by young performers recognized for flexibility, grace, and expressive poses.", "video": "https://www.youtube.com/embed?listType=search&list=Goti%20Pua%20dance%20Odisha" }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "overview": "Kerala's folk performances are deeply rooted in temple, festival, and community traditions with expressive group choreography.",
+    "dances": [
+      { "name": "Kaikottikali", "description": "A circular women's dance performed with claps, song, and graceful coordinated steps.", "video": "https://www.youtube.com/embed?listType=search&list=Kaikottikali%20dance%20Kerala" },
+      { "name": "Kummattikali", "description": "A festive masked dance associated with colorful costume and public celebration.", "video": "https://www.youtube.com/embed?listType=search&list=Kummattikali%20dance%20Kerala" },
+      { "name": "Thiruvathirakali", "description": "A refined dance performed by women in a circle during festive and devotional occasions.", "video": "https://www.youtube.com/embed?listType=search&list=Thiruvathirakali%20dance%20Kerala" },
+      { "name": "Ottamthullal", "description": "A storytelling performance form that mixes expressive acting, dance, and satire.", "video": "https://www.youtube.com/embed?listType=search&list=Ottamthullal%20dance%20Kerala" }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "overview": "Karnataka's dance heritage ranges from folk-theatre spectacle to temple and village performance traditions.",
+    "dances": [
+      { "name": "Yakshagana", "description": "A celebrated dance-drama tradition with elaborate costume, face paint, and narrative acting.", "video": "https://www.youtube.com/embed?listType=search&list=Yakshagana%20dance%20Karnataka" },
+      { "name": "Dollu Kunitha", "description": "A vigorous drum dance recognized for synchronized footwork and powerful ensemble rhythm.", "video": "https://www.youtube.com/embed?listType=search&list=Dollu%20Kunitha%20dance%20Karnataka" },
+      { "name": "Veeragase", "description": "A high-energy devotional dance linked to heroic Shaiva traditions.", "video": "https://www.youtube.com/embed?listType=search&list=Veeragase%20dance%20Karnataka" },
+      { "name": "Bhootha Aradhane", "description": "A ritual performance form with dramatic costume, trance, and ceremonial meaning.", "video": "https://www.youtube.com/embed?listType=search&list=Bhootha%20Aradhane%20Karnataka" }
+    ]
+  },
+  {
+    "state": "Goa",
+    "overview": "Goa's folk dances reflect coastal village life, festive celebration, and community participation.",
+    "dances": [
+      { "name": "Fugdi", "description": "A fast-paced women's folk dance performed in circles with song and rhythmic turns.", "video": "https://www.youtube.com/embed?listType=search&list=Fugdi%20dance%20Goa" },
+      { "name": "Dhalo", "description": "A ceremonial dance-song tradition with paired lines and expressive group movement.", "video": "https://www.youtube.com/embed?listType=search&list=Dhalo%20dance%20Goa" },
+      { "name": "Kunbi Dance", "description": "An agrarian folk dance associated with the Kunbi community and simple rhythmic steps.", "video": "https://www.youtube.com/embed?listType=search&list=Kunbi%20dance%20Goa" }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "overview": "Gujarat is famous for lively circular dance traditions celebrated especially during Navratri and community festivals.",
+    "dances": [
+      { "name": "Garba", "description": "A colorful circular folk dance performed with claps, spins, and festive devotion.", "video": "https://www.youtube.com/embed?listType=search&list=Garba%20dance%20Gujarat" },
+      { "name": "Dandiya Raas", "description": "A vibrant stick dance marked by rhythmic partner exchange and energetic patterns.", "video": "https://www.youtube.com/embed?listType=search&list=Dandiya%20Raas%20dance%20Gujarat" },
+      { "name": "Tippani", "description": "A folk dance traditionally linked with rhythmic labor songs and coordinated stick movement.", "video": "https://www.youtube.com/embed?listType=search&list=Tippani%20dance%20Gujarat" }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "overview": "Chhattisgarh's folk dances highlight devotion, agrarian celebration, and strong community identity.",
+    "dances": [
+      { "name": "Panthi", "description": "A devotional dance performed with vigor, balance, and spiritual focus.", "video": "https://www.youtube.com/embed?listType=search&list=Panthi%20dance%20Chhattisgarh" },
+      { "name": "Raut Nacha", "description": "A festive pastoral dance associated with herding communities and celebratory processions.", "video": "https://www.youtube.com/embed?listType=search&list=Raut%20Nacha%20dance%20Chhattisgarh" },
+      { "name": "Karma", "description": "A popular tribal dance featuring circular movement and collective musical rhythm.", "video": "https://www.youtube.com/embed?listType=search&list=Karma%20dance%20Chhattisgarh" },
+      { "name": "Sua Nacha", "description": "A women's folk dance centered on song, clapping, and symbolic storytelling.", "video": "https://www.youtube.com/embed?listType=search&list=Sua%20Nacha%20dance%20Chhattisgarh" }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "overview": "Jharkhand's dance traditions are strongly connected to tribal culture, local music, and festive village gatherings.",
+    "dances": [
+      { "name": "Paika", "description": "A folk dance with martial roots and sharp rhythmic action.", "video": "https://www.youtube.com/embed?listType=search&list=Paika%20dance%20Jharkhand" },
+      { "name": "Jhumar", "description": "A lyrical group dance performed to melodic folk music and swaying movement.", "video": "https://www.youtube.com/embed?listType=search&list=Jhumar%20dance%20Jharkhand" },
+      { "name": "Chhau", "description": "A dramatic dance form blending stylized gesture, athletic movement, and folklore.", "video": "https://www.youtube.com/embed?listType=search&list=Chhau%20dance%20Jharkhand" }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "overview": "Tamil Nadu's folk dances are expressive, community-centered, and often linked to rural festivals and devotional celebration.",
+    "dances": [
+      { "name": "Karagattam", "description": "A balancing dance where performers carry decorated pots while moving with grace and control.", "video": "https://www.youtube.com/embed?listType=search&list=Karagattam%20dance%20Tamil%20Nadu" },
+      { "name": "Kummi", "description": "A traditional women's folk dance built around clapping, singing, and circular movement.", "video": "https://www.youtube.com/embed?listType=search&list=Kummi%20dance%20Tamil%20Nadu" },
+      { "name": "Kolattam", "description": "A stick dance performed in groups with bright rhythm and patterned choreography.", "video": "https://www.youtube.com/embed?listType=search&list=Kolattam%20dance%20Tamil%20Nadu" },
+      { "name": "Kavadi", "description": "A devotional dance linked to pilgrimage and ritual expression.", "video": "https://www.youtube.com/embed?listType=search&list=Kavadi%20dance%20Tamil%20Nadu" }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "overview": "Telangana's folk dances feature both historic warrior expression and community celebration in vibrant costume.",
+    "dances": [
+      { "name": "Perini Shivatandavam", "description": "A vigorous warrior dance associated with masculine energy and rhythmic intensity.", "video": "https://www.youtube.com/embed?listType=search&list=Perini%20Shivatandavam%20Telangana" },
+      { "name": "Lambadi Dance", "description": "A colorful community dance of the Lambadi people with expressive costume and lively group movement.", "video": "https://www.youtube.com/embed?listType=search&list=Lambadi%20dance%20Telangana" }
+    ]
+  },
+  {
+    "state": "Nagaland",
+    "overview": "Nagaland's dances often emerge from warrior memory, festival celebration, and strong tribal identity.",
+    "dances": [
+      { "name": "Chang Lo", "description": "A victory-themed community dance performed during celebratory gatherings.", "video": "https://www.youtube.com/embed?listType=search&list=Chang%20Lo%20dance%20Nagaland" },
+      { "name": "Zeliang Dance", "description": "A traditional group dance showing unity, rhythm, and ceremonial pride.", "video": "https://www.youtube.com/embed?listType=search&list=Zeliang%20dance%20Nagaland" }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "overview": "Punjab is known for energetic and festive dance traditions that celebrate harvest, joy, and strong collective spirit.",
+    "dances": [
+      { "name": "Bhangra", "description": "A vibrant harvest dance with powerful jumps, shoulder movements, and drum-driven energy.", "video": "https://www.youtube.com/embed?listType=search&list=Bhangra%20dance%20Punjab" },
+      { "name": "Giddha", "description": "A lively women's folk dance built around boliyan, claps, and expressive storytelling.", "video": "https://www.youtube.com/embed?listType=search&list=Giddha%20dance%20Punjab" },
+      { "name": "Jhumar", "description": "A graceful Punjabi folk dance known for flowing rhythm and relaxed circular movement.", "video": "https://www.youtube.com/embed?listType=search&list=Jhumar%20dance%20Punjab" }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "overview": "Bihar preserves dramatic and seasonal folk dances that connect music, storytelling, and village tradition.",
+    "dances": [
+      { "name": "Jat-Jatin", "description": "A folk dance-drama based on rural life and emotional exchange between characters.", "video": "https://www.youtube.com/embed?listType=search&list=Jat%20Jatin%20dance%20Bihar" },
+      { "name": "Jhijhiya", "description": "A festive women's dance involving decorated lamps and rhythmic circular movement.", "video": "https://www.youtube.com/embed?listType=search&list=Jhijhiya%20dance%20Bihar" },
+      { "name": "Bidesia", "description": "A dramatic folk form combining dance, acting, and social storytelling.", "video": "https://www.youtube.com/embed?listType=search&list=Bidesia%20dance%20Bihar" }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "overview": "The folk dances of Madhya Pradesh reflect community ritual, harvest celebration, and central Indian cultural diversity.",
+    "dances": [
+      { "name": "Matki", "description": "A women's dance performed with balancing movement and festive expression.", "video": "https://www.youtube.com/embed?listType=search&list=Matki%20dance%20Madhya%20Pradesh" },
+      { "name": "Karma", "description": "A widely performed tribal folk dance centered on rhythm, community, and celebration.", "video": "https://www.youtube.com/embed?listType=search&list=Karma%20dance%20Madhya%20Pradesh" },
+      { "name": "Gangaur Dance", "description": "A traditional celebratory dance associated with devotion, beauty, and social festivity.", "video": "https://www.youtube.com/embed?listType=search&list=Gangaur%20dance%20Madhya%20Pradesh" }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "overview": "Maharashtra's dance traditions blend performance energy, coastal rhythm, and theatrical folk entertainment.",
+    "dances": [
+      { "name": "Lavani", "description": "A powerful performance tradition known for expressive rhythm, song, and dramatic stage presence.", "video": "https://www.youtube.com/embed?listType=search&list=Lavani%20dance%20Maharashtra" },
+      { "name": "Koli Dance", "description": "A lively dance of the fishing community inspired by rowing and the rhythm of the sea.", "video": "https://www.youtube.com/embed?listType=search&list=Koli%20dance%20Maharashtra" },
+      { "name": "Tamasha", "description": "A theatrical folk performance style combining dance, music, and lively entertainment.", "video": "https://www.youtube.com/embed?listType=search&list=Tamasha%20dance%20Maharashtra" }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "overview": "Manipur is celebrated for refined and deeply expressive dance traditions rooted in devotion and cultural memory.",
+    "dances": [
+      { "name": "Ras Leela", "description": "A graceful devotional dance tradition centered on Krishna legends and lyrical movement.", "video": "https://www.youtube.com/embed?listType=search&list=Ras%20Leela%20dance%20Manipur" },
+      { "name": "Lai Haraoba", "description": "A ritual performance celebrating creation stories and sacred cultural heritage.", "video": "https://www.youtube.com/embed?listType=search&list=Lai%20Haraoba%20dance%20Manipur" }
+    ]
+  },
+  {
+    "state": "Mizoram",
+    "overview": "Mizoram's dance culture is community-oriented and visually striking, often using coordinated patterns and shared rhythm.",
+    "dances": [
+      { "name": "Cheraw (Bamboo Dance)", "description": "A famous bamboo dance in which performers move with agility between rhythmically struck poles.", "video": "https://www.youtube.com/embed?listType=search&list=Cheraw%20Bamboo%20Dance%20Mizoram" }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "overview": "Rajasthan's folk dances are colorful, dramatic, and strongly tied to desert festivals, royal memory, and community celebration.",
+    "dances": [
+      { "name": "Ghoomar", "description": "A swirling women's dance recognized for graceful spins and vibrant costume.", "video": "https://www.youtube.com/embed?listType=search&list=Ghoomar%20dance%20Rajasthan" },
+      { "name": "Kalbelia", "description": "A serpentine dance tradition of the Kalbelia community with fluid torso and arm movement.", "video": "https://www.youtube.com/embed?listType=search&list=Kalbelia%20dance%20Rajasthan" },
+      { "name": "Bhavai", "description": "A balancing dance known for skillful performance with pots and dramatic control.", "video": "https://www.youtube.com/embed?listType=search&list=Bhavai%20dance%20Rajasthan" },
+      { "name": "Chari", "description": "A ceremonial dance in which performers carry decorated brass pots, often with lamps.", "video": "https://www.youtube.com/embed?listType=search&list=Chari%20dance%20Rajasthan" }
+    ]
+  },
+  {
+    "state": "Sikkim",
+    "overview": "Sikkim's dances reflect Himalayan identity, monastic influence, and festive regional culture.",
+    "dances": [
+      { "name": "Singhi Chham", "description": "A masked snow-lion dance representing power, purity, and mountain symbolism.", "video": "https://www.youtube.com/embed?listType=search&list=Singhi%20Chham%20dance%20Sikkim" },
+      { "name": "Maruni", "description": "A colorful festive dance performed with musical accompaniment and lively expression.", "video": "https://www.youtube.com/embed?listType=search&list=Maruni%20dance%20Sikkim" }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "overview": "Haryana's folk dances are energetic and rooted in seasonal celebration, village gathering, and community expression.",
+    "dances": [
+      { "name": "Phag", "description": "A spring festival dance celebrating joy, color, and seasonal change.", "video": "https://www.youtube.com/embed?listType=search&list=Phag%20dance%20Haryana" },
+      { "name": "Dhamal", "description": "A spirited dance marked by strong rhythm and celebratory movement.", "video": "https://www.youtube.com/embed?listType=search&list=Dhamal%20dance%20Haryana" },
+      { "name": "Khoria", "description": "A women-led social dance performed during family and wedding occasions.", "video": "https://www.youtube.com/embed?listType=search&list=Khoria%20dance%20Haryana" }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "overview": "The folk dances of Himachal Pradesh are shaped by mountain life, festive gatherings, and local ritual traditions.",
+    "dances": [
+      { "name": "Nati", "description": "A popular group folk dance with flowing formations and celebratory rhythm.", "video": "https://www.youtube.com/embed?listType=search&list=Nati%20dance%20Himachal%20Pradesh" },
+      { "name": "Chamba Dance", "description": "A regional dance style associated with festive cultural presentation in the Chamba area.", "video": "https://www.youtube.com/embed?listType=search&list=Chamba%20dance%20Himachal%20Pradesh" }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "overview": "West Bengal's folk traditions combine expressive storytelling, ritual performance, and regional musical culture.",
+    "dances": [
+      { "name": "Chhau", "description": "A dynamic masked dance style with heroic movement and strong theatrical energy.", "video": "https://www.youtube.com/embed?listType=search&list=Chhau%20dance%20West%20Bengal" },
+      { "name": "Gambhira", "description": "A folk performance tradition that combines dialogue, rhythm, and social commentary.", "video": "https://www.youtube.com/embed?listType=search&list=Gambhira%20dance%20West%20Bengal" },
+      { "name": "Santhal Dance", "description": "A community dance of the Santhal people featuring synchronized group rhythm and song.", "video": "https://www.youtube.com/embed?listType=search&list=Santhal%20dance%20West%20Bengal" }
+    ]
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "overview": "Jammu & Kashmir's dance traditions are shaped by valley culture, celebration, and expressive regional costume.",
+    "dances": [
+      { "name": "Rouf", "description": "A graceful women's dance performed in rows with gentle rhythmic stepping.", "video": "https://www.youtube.com/embed?listType=search&list=Rouf%20dance%20Jammu%20Kashmir" },
+      { "name": "Dumhal", "description": "A ceremonial dance performed by men with colorful costume and rhythmic procession.", "video": "https://www.youtube.com/embed?listType=search&list=Dumhal%20dance%20Jammu%20Kashmir" }
+    ]
+  }
+]
+;

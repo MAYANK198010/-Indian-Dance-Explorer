@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indian Dance Explorer</title>
+  <link rel="preconnect" href="https://www.youtube.com">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="home">
+  <div class="page-shell">
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Interactive Cultural Learning</p>
+        <h1>Indian Dance Explorer</h1>
+        <p class="hero-copy">
+          Discover the folk dances of India state by state through an interactive map, guided notes,
+          and classroom-friendly video lessons.
+        </p>
+      </div>
+      <nav class="navbar" aria-label="Main navigation">
+        <a class="nav-link active" href="index.html">Home</a>
+        <a class="nav-link" href="quiz.html">Quizzes</a>
+      </nav>
+    </header>
+
+    <main class="explorer-layout">
+      <section class="panel map-panel">
+        <div class="panel-header">
+          <div>
+            <p class="section-kicker">Map Explorer</p>
+            <h2>Choose a state</h2>
+          </div>
+          <span class="panel-chip">26 states</span>
+        </div>
+        <p class="panel-copy">
+          Hover to preview a state and click to open its traditional dance collection.
+        </p>
+        <div class="map-stage">
+          <svg id="indiaMap" viewBox="0 0 760 900" role="img" aria-label="Interactive map of India"></svg>
+        </div>
+      </section>
+
+      <section class="panel detail-panel">
+        <div class="detail-intro">
+          <p class="section-kicker">Learning Panel</p>
+          <h2 id="stateTitle">Select a state from the map</h2>
+          <p id="stateSummary" class="state-summary">
+            Traditional dance notes, dance cards, and a video lesson will appear here.
+          </p>
+        </div>
+
+        <div class="stats-strip" id="statsStrip">
+          <div class="stat-card">
+            <span class="stat-label">State</span>
+            <strong id="selectedStateLabel">None selected</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Dances</span>
+            <strong id="danceCountLabel">0 traditions</strong>
+          </div>
+        </div>
+
+        <section class="dance-section">
+          <div class="section-heading">
+            <h3>Traditional dances</h3>
+            <span id="dancePrompt" class="section-caption">Click a card to open the lesson.</span>
+          </div>
+          <div id="danceList" class="dance-list" aria-live="polite"></div>
+        </section>
+
+        <section id="videoSection" class="video-section empty">
+          <div class="section-heading">
+            <h3 id="danceTitle">Dance lesson</h3>
+            <span class="section-caption">Embedded YouTube player</span>
+          </div>
+          <p id="danceDescription" class="dance-description">
+            Choose a dance from the list to watch a curated lesson and read a quick introduction.
+          </p>
+          <div class="video-frame-wrap">
+            <iframe
+              id="danceVideo"
+              title="Dance video player"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <script src="dance-data.js" defer></script>
+  <script src="script.js" defer></script>
+</body>
+</html>

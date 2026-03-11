@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indian Dance Explorer | Quizzes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="quiz">
+  <div class="page-shell">
+    <header class="quiz-hero">
+      <div>
+        <p class="eyebrow">Quiz Journey</p>
+        <h1>Dance Knowledge Challenge</h1>
+        <p>
+          Complete all three levels in order. A certificate appears after Level 3 when you score
+          at least <strong>47 out of 50</strong>.
+        </p>
+      </div>
+      <nav class="navbar" aria-label="Main navigation">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link active" href="quiz.html">Quizzes</a>
+      </nav>
+    </header>
+
+    <main class="quiz-grid">
+      <section class="quiz-shell">
+        <div class="level-grid" id="levelGrid"></div>
+      </section>
+
+      <section id="quizPanel" class="question-card hidden" aria-live="polite">
+        <div class="quiz-toolbar">
+          <div>
+            <p class="section-kicker">Current Quiz</p>
+            <h3 id="quizLevelTitle">Level 1</h3>
+          </div>
+          <button id="backToLevels" class="control-button" type="button">Back to levels</button>
+        </div>
+
+        <div class="question-meta">
+          <span class="badge" id="questionProgress">Question 1 / 50</span>
+          <span class="badge" id="questionScore">Score 0</span>
+        </div>
+
+        <h3 id="questionText"></h3>
+        <p id="quizStatus" class="quiz-status">Choose the correct answer.</p>
+        <div id="quizOptions" class="quiz-options"></div>
+      </section>
+
+      <section id="resultPanel" class="result-card hidden">
+        <p class="section-kicker">Level Result</p>
+        <h3 id="resultTitle">Level complete</h3>
+        <p id="resultText"></p>
+        <div class="result-actions">
+          <button id="retryLevel" class="result-button" type="button">Retry level</button>
+          <button id="nextAction" class="result-button" type="button">Continue</button>
+        </div>
+      </section>
+
+      <section id="certificatePanel" class="certificate-card hidden">
+        <p class="section-kicker">Achievement</p>
+        <h3>Certificate of Completion</h3>
+        <p class="certificate-copy">
+          This certifies that the learner has successfully completed the Indian Dance Explorer quiz series.
+        </p>
+        <div class="certificate-name">Indian Dance Explorer Scholar</div>
+        <p id="certificateScore" class="certificate-score"></p>
+        <p class="certificate-copy">
+          Awarded for demonstrating strong knowledge of Indian folk dance traditions across all three levels.
+        </p>
+        <div class="result-actions">
+          <button id="printCertificate" class="result-button" type="button">Print certificate</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="quiz-data.js" defer></script>
+  <script src="quiz.js" defer></script>
+</body>
+</html>
